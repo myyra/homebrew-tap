@@ -1,8 +1,8 @@
 class Hrflow < Formula
   desc "HR Flow CLI"
   homepage "https://github.com/myyra/hrflow"
-  url "https://github.com/myyra/hrflow/archive/v0.1.1.zip"
-  sha256 "183667c679cbdc27f40d92b870b297df51ffece8cabda365c557ab700b6364b3"
+  url "https://github.com/myyra/hrflow/archive/v0.1.3.zip"
+  sha256 "1f96d16c0c741cf34cbddadfaa1fb258d73af39155fe79ea3046293c25837428"
 
   depends_on "go" => :build
 
